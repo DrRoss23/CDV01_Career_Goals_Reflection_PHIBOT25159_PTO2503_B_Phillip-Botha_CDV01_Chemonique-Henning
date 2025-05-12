@@ -4,8 +4,8 @@
 
 - **Name:** Phillip-Rossouw Botha
 - **Date:** 12 May 2025
-- **Current Role/Position:** Junior Technical Support & Help Desk Agent
-- **Field of Interest:** Technical Support Engineering, DevOps, Web Hosting, Linux Systems Administration
+- **Current Role/Position:** Technical Support & Help Desk Agent
+- **Field of Interest:** Technical Support Engineering, DevOps, Web Hosting, Linux Systems Administration, Cybersecurity
 
 ### Part 1: Self-Assessment Reflection
 
@@ -17,13 +17,13 @@
       - Technical customer support and escalation handling
       - Hosting migrations and troubleshooting
       - Familiarity with cPanel certifications (CPCP, CPP, CWA, etc.)
-      - Basic Python and SQL fundamentals
+      - Basic SQL fundamentals
       - Excellent soft skills: communication, multitasking, listening, and problem-solving
 
     - **Skills to Develop or Improve:**
       - Advanced Python and scripting for automation
       - Deeper Linux systems administration (bash, cron jobs, logs, etc.)
-      - DevOps tools like Docker, Git, and CI/CD pipelines
+      - DevOps tools like Docker, and CI/CD pipelines
       - Networking concepts and security fundamentals
       - Working knowledge of cloud platforms (AWS, Azure, or Google Cloud)
 
@@ -65,7 +65,7 @@
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - Complete Python and SQL Fundamentals courses by September 2025  
+    - Complete Python and SQL Fundamentals courses by start 2027  
     - Gain hands-on Linux server experience (at least 1 live project or sandbox setup by end of 2025)  
     - Earn at least one DevOps/cloud-related certification (e.g., AWS Cloud Practitioner or Linux+) by mid-2026  
     - Take part in internal knowledge base documentation to improve technical writing  
@@ -85,13 +85,13 @@
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Enroll in advanced Python and Bash scripting courses on platforms like Codecademy or Udemy  
+    - Enroll in advanced Python SQL, And PHP courses on Codespace 
     - Set up a home lab using VirtualBox or a cloud trial (e.g., AWS Free Tier)  
     - Shadow senior admins on ticket escalations to learn advanced troubleshooting  
     - Join tech communities (Discord, LinkedIn, Reddit) to stay up to date and network
 
     **Resources Required:**
-    - Time allocation (1–2 hours/week learning)
+    - Time allocation (10 hours/week learning)
     - Support from mentors or team leads
     - Online courses, YouTube tutorials, and sandbox setups
 
