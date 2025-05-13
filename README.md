@@ -85,7 +85,7 @@
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Enroll in advanced Python SQL, And PHP courses on Codespace 
+    - Enroll in advanced Python, SQL, And PHP courses on Codespace 
     - Set up a home lab using VirtualBox or a cloud trial (e.g., AWS Free Tier)  
     - Shadow senior admins on ticket escalations to learn advanced troubleshooting  
     - Join tech communities (Discord, LinkedIn, Reddit) to stay up to date and network
